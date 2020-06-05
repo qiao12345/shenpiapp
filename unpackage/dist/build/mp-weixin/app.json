@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/list/list",
+    "pages/listItem/listItem",
+    "pages/guardian/guardian"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "访客审批系统",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

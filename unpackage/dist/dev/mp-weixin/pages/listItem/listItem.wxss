@@ -1,0 +1,20 @@
+
+.q_list{
+	padding: 10px;
+	background-color: #FFFFFF;
+	border-bottom: solid 1px #c9c9c9;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 14px;
+}
+.q_text1{
+	font-weight: bold;
+}
+.q_text2{
+	color: #807f82;
+}
+

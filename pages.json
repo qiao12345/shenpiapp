@@ -1,0 +1,23 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页,
+		{
+			"path": "pages/login/login"
+		}, {
+			"path": "pages/list/list"
+		}
+	    ,{
+            "path" : "pages/listItem/listItem",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/guardian/guardian",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTitleText": "访客审批系统",
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#0faeff",
+		"backgroundColor": "#fbf9fe"
+	}
+}
